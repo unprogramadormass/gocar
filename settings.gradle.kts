@@ -24,7 +24,7 @@ dependencyResolutionManagement {
                 // El usuario siempre es "mapbox"
                 username = "mapbox"
                 // Reemplaza con tu SECRET TOKEN (el que empieza con sk)
-                password = "s"
+                password = "sk.eyJ1IjoidW5wcm9ncmFtYWRvciIsImEiOiJjbWw4bnJwZmYwOTd0M2dxMWZucWdwa3JmIn0.Ehnzc2Cf2_nVkHvYiGGZDQ"
             }
         }
     }
